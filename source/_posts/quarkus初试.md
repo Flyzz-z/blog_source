@@ -1,7 +1,7 @@
 ---
 title: Quarkus初试
-tags:[ava,云原生]
-index_img: blog-img-1304606000.file.myqcloud.com/img/20220131000458.png
+tags: [java,云原生]
+index_img: https://blog-img-1304606000.file.myqcloud.com/img/20220131000458.png
 ---
 
 
