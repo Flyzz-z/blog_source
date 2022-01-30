@@ -31,8 +31,8 @@ jobs:
       
       - name: Install dependencies
         run: |
-          npm install -g hexo-cli -f
-          npm i
+          npm install -g -f hexo-cli 
+          npm ci
           
       - name: generate static source
         run: |
