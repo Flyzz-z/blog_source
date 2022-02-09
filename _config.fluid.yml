@@ -419,9 +419,9 @@ footer:
   # 国内大陆服务器的备案信息
   # For Chinese mainland website policy, other areas keep disable
   beian:
-    enable: false
+    enable: true
     # ICP证号
-    icp_text: 京ICP证123456号
+    icp_text: 豫ICP备2022003329号-1
     # 公安备案号，不填则只显示ICP
     police_text: 京公网安备12345678号
     # 公安备案的编号，用于URL跳转查询
