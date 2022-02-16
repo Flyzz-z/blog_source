@@ -255,3 +255,8 @@ public class HelloService implements Hello{
 
   以上就是 Java 中的三种代理，通过代理可以实现很多功能，如Spring中AOP,各种简化开发的注解，具体有待进一步学习。
 
+静态代理：编译期生成class,快但不灵活
+
+jdk动态代理: 需要实现接口，反射消耗时间
+
+cglib代理：字节码生成，比反射快，要继承目标类重写方法，目标类不能用final修饰。
